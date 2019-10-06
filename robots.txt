@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quoovuchis.tiehu.is/sitemap.xml
